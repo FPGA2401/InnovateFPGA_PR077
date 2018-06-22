@@ -2,5 +2,6 @@
 Greater China Region Final
 Automatic Tuner
 
-**** System Description
+* System Description
+
 
